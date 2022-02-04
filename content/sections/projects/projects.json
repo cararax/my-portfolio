@@ -2,18 +2,18 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "🕹️ Hexagonal Architecture",
+      "title": "Email sending microservice",
+      "description": "Microservice project with hexagonal architecture that sends emails from a queue.",
+      "tags": ["Spring Boot", "RabbitMQ"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup"
+        "src": "../../images/project1.png",
+        "alt": "Email sending microservice logo"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/cararax/ms-emailsending"
         },
         {
           "type": "external",
@@ -23,25 +23,25 @@
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "🧰 Rest API",
+      "title": "Forum API project",
+      "description": "This project is a forum api, where users can register topics and add answers .",
+      "tags": ["Spring Boot", "Spring Security"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "src": "../../images/project2.png",
+        "alt": "Forum API project"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/cararax/forumAPI"
         }
       ]
     }
   ],
   "button": {
     "visible": true,
-    "label": "Visit on Github",
-    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+    "label": "Visit me on Github",
+    "url": "https://github.com/cararax"
   }
 }
