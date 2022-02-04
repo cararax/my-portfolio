@@ -1,18 +1,18 @@
 {
-  "intro": "Hej",
+  "intro": "Hey",
   "image": {
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "I'm a Pedro Carara",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
+    "prefix": "",
+    "highlight": "Backend developer",
     "suffix": "."
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "You can find me on:",
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],
-    "showIcons": false
+    "showIcons": true
   }
 }
